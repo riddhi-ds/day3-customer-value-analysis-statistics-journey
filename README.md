@@ -1,0 +1,2 @@
+# day3-customer-value-analysis-statistics-journey
+A structured data science journey focused on statistical analysis of customer behavior. This project explores central tendency, dispersion, quantiles, quartiles, percentiles, and data visualization techniques (boxplots, histograms, scatterplots) to understand customer value distribution and identify high-value segments for business decision-making.
